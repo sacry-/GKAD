@@ -1,0 +1,10 @@
+mixed
+s,u,e1{d:10 dire:t}
+s,x,e2{d:5 dire:t}
+u,v,e3{d:1 dire:t}
+u,x,e4{d:2 dire:t}
+x,u,e5{d:3 dire:t}
+x,y,e6{d:2 dire:t}
+y,s,e7{d:7 dire:t}
+y,v,e8{d:6 dire:t}
+v,y,e9{d:4 dire:t}

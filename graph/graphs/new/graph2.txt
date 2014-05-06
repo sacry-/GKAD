@@ -1,0 +1,10 @@
+directed
+s,u,e1{d:10}
+s,x,e2{d:5}
+u,v,e3{d:1}
+u,x,e4{d:2}
+x,u,e5{d:3}
+x,y,e6{d:2}
+y,s,e7{d:7}
+y,v,e8{d:6}
+v,y,e9{d:4}
